@@ -1,0 +1,21 @@
+.storyPlayerBackground{
+   width: 100%;
+   height: 100vh;
+   z-index: 200;
+    background-color:rgba(0,0,0,0.75);
+    position:fixed;
+    top:0;
+    left:0;
+    
+}
+.storyPlayercontainer{
+    position: fixed;
+    top:20vh;
+    left:10%;
+    width: 80%;
+    overflow: hidden;
+    z-index: 201;
+}
+.storyPlayerontainer>button{
+    justify-content: left;
+}
